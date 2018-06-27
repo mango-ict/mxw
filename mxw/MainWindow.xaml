@@ -1,0 +1,13 @@
+﻿<Window x:Class="mxw.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:cefSharp="clr-namespace:CefSharp.Wpf;assembly=CefSharp.Wpf"
+        xmlns:local="clr-namespace:mxw"
+        mc:Ignorable="d"
+        Title="MXW" Height="780" Width="1280" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <cefSharp:ChromiumWebBrowser x:Name="cefBrowser" Grid.Row="0" Address="https://www.mangoict.com/" IsBrowserInitializedChanged="cefBrowser_IsBrowserInitializedChanged" />
+    </Grid>
+</Window>

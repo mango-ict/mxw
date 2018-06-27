@@ -113,3 +113,10 @@ C:\Users\Richard Edens\Documents\MangoICT\mxw\mxw\bin\x64\Debug\html-resources\l
 C:\Users\Richard Edens\Documents\MangoICT\mxw\mxw\bin\x64\Debug\html-resources\lib\material.js
 C:\Users\Richard Edens\Documents\MangoICT\mxw\mxw\bin\x64\Debug\html-resources\lib\material.min.css
 C:\Users\Richard Edens\Documents\MangoICT\mxw\mxw\bin\x64\Debug\html-resources\lib\material.min.js
+C:\Users\Richard Edens\Documents\MangoICT\mxw\mxw\bin\x64\Debug\mxw.exe.manifest
+C:\Users\Richard Edens\Documents\MangoICT\mxw\mxw\bin\x64\Debug\mxw.application
+C:\Users\Richard Edens\Documents\MangoICT\mxw\mxw\obj\x64\Debug\mxw.exe.manifest
+C:\Users\Richard Edens\Documents\MangoICT\mxw\mxw\obj\x64\Debug\mxw.application
+C:\Users\Richard Edens\Documents\MangoICT\mxw\mxw\bin\x64\Debug\mxw-core.dll
+C:\Users\Richard Edens\Documents\MangoICT\mxw\mxw\bin\x64\Debug\mxw-core.pdb
+C:\Users\Richard Edens\Documents\MangoICT\mxw\mxw\obj\x64\Debug\mxw.csproj.CopyComplete

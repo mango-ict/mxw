@@ -16,6 +16,7 @@ using System.Windows.Shapes;
 using CefSharp;
 using CefSharp.Wpf;
 using System.Runtime.InteropServices;
+using mxw_core;
 
 namespace mxw
 {
@@ -33,7 +34,7 @@ namespace mxw
             InitializeComponent();
 
             // Register JavaScript object
-            this.cefBrowser.RegisterJsObject("mxw", new MXWCore(this.cefBrowser, this));
+            this.cefBrowser.RegisterJsObject("mxw", new MXWCore(this.cefBrowser));
 
         }
 
